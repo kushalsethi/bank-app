@@ -1,5 +1,5 @@
 # bank-app
-A REST API that handles all basic transactional operations for customers like create account, deposit money, withdraw money, enquire account details
+A REST API that handles all basic transactional operations of bank for customers like create account, deposit money, withdraw money, enquire account details
 
 #### Prerequisite <br/>
 You must have following installed on your machine <br/>
